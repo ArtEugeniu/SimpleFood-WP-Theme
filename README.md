@@ -20,7 +20,7 @@ This theme demonstrates my ability to transform static designs into dynamic, CMS
 
 ### 🖼️ Demo
 
-[Link to live demo](https://your-hosting-link.com)
+[Link to live demo](https://simplefood.wuaze.com/)
 
 ### 📂 Installation
 
