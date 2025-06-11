@@ -1,15 +1,32 @@
 # SimpleFood WordPress Theme
+SimpleFood is a custom WordPress theme I created by converting a static HTML/CSS layout into a fully functional, dynamic WordPress theme.
 
-This is a custom WordPress theme I developed by converting a static HTML/CSS layout into a fully functional WordPress theme.
+## ✨ What’s included
+🔧 Designed and built the original layout using HTML5 and CSS3
 
-## What I did
+🧩 Converted the static layout into a WordPress theme using PHP and WordPress templating
 
-- Created the original static design and layout with HTML and CSS.
-- Integrated the design into WordPress by creating theme files.
-- Developed three main pages with custom templates.
-- Built reusable header (`header.php`) and footer (`footer.php`) template parts.
-- Implemented dynamic product cards using PHP so content can be managed from the WordPress admin panel.
-- Ensured the theme is fully responsive and works well on different screen sizes.
-- Used WordPress functions and loops to make content editable and manageable via the admin dashboard.
+🗂️ Created three main pages with custom templates
 
-This theme demonstrates my ability to turn static designs into dynamic, CMS-driven websites with clean, maintainable code.
+🧱 Built reusable template parts: header.php and footer.php
+
+🍽️ Implemented dynamic product cards using PHP and ACF (Advanced Custom Fields) — all product content is editable via the WordPress admin panel
+
+📱 Fully responsive layout — works great across different screen sizes
+
+🔄 Used WordPress loops and functions to make all content manageable from the admin dashboard
+
+This theme demonstrates my ability to transform static designs into dynamic, CMS-driven websites using WordPress. Clean structure, editable content, and responsiveness make this theme suitable for real-world projects.
+
+### 🖼️ Demo
+
+[Link to live demo](https://your-hosting-link.com)
+
+### 📂 Installation
+
+1. Clone this repository into your `wp-content/themes` directory  
+2. Activate the theme via the WordPress dashboard  
+3. Make sure ACF is installed and configured (if used)
+
+
+
